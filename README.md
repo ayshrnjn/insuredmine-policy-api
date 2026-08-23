@@ -10,25 +10,6 @@ A simple fresher-level Node.js assessment project using Express, MongoDB, Mongoo
 - Get policy details aggregated for every user.
 - Re-uploading the same sheet updates records instead of creating policy duplicates.
 
-## Setup
-
-1. Install Node.js 20.19+ and MongoDB.
-2. Install dependencies:
-
-```bash
-pnpm install
-```
-
-`npm install` can also be used.
-
-3. Copy `.env.example` to `.env`.
-4. Start the API:
-
-```bash
-pnpm dev
-```
-
-The server starts at `http://localhost:3000`.
 
 ## Environment variables
 
